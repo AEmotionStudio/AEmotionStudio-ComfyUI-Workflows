@@ -1,4 +1,4 @@
-(https://github.com/AEmotionStudio/AEmotionStudio_ComfyUI_Workflows/assets/163354043/eb8dc795-28d6-4318-af1a-c41e891b6ed2)
+[ÆmotionStudio_Civitai_Cover_Image_1](https://github.com/AEmotionStudio/AEmotionStudio_ComfyUI_Workflows/assets/163354043/eb8dc795-28d6-4318-af1a-c41e891b6ed2)
 
 This suite is a collection of modules which aims to cover the entire creation process from prompts to full on animations, in a neat, organized, and compact fashion.
 
