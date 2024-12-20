@@ -1,4 +1,4 @@
-Updated March 24th, 2024
+
 Updated October 1st, 2024
 
 v1.5:
