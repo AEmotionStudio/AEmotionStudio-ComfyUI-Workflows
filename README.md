@@ -136,5 +136,3 @@ Website: https://aemotionstudio.org/
 Civitai: https://civitai.com/user/AEmotionStudio
 
 Github: https://github.com/AEmotionStudio
-
-⚡⚡ Thank you so much for the Buzz given thus far! ⚡⚡
