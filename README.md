@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-v1.5-blue.svg)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-compatible-green.svg)
 
-*Updated October 1st, 2024*
+*Updated October 1st, 2024 [outdated - here for archiving]*
 
 ## 📖 About
 
