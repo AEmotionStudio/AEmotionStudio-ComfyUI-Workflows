@@ -7,7 +7,7 @@
 
 ## 📖 About
 
-This suite is a collection of modules which aims to cover the entire creation process from prompts to full on animations in a neat, organized, and compact fashion.
+This suite is a collection of 57+ modules which aims to cover the entire creation process from prompts to full on animations in a neat, organized, and compact fashion.
 
 The ultimate goal is to streamline productivity while outputting high quality content, without the need to switch back and forth between a bunch of other workflows.
 
